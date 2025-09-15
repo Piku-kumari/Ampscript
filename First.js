@@ -1,2 +1,2 @@
-console.log("hey Git, I am Priyanka");
-console.log("command");
+console.log("Hey Priya");
+console.log("how are you");
